@@ -1,0 +1,13 @@
+{
+  "extensions": {
+    "checkout/universal/common-code": {
+      "component": "common-code"
+    },
+    "checkout/universal/code-who-inject-script": {
+      "component": "inject-script"
+    },
+    "checkout/universal/code-who-inject-html": {
+      "component": "inject-html"
+    }
+  }
+}
